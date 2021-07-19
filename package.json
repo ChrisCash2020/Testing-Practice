@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisCash2020/Testing-Practice.git"
+  },
+  "author": "Chris Olowokere",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChrisCash2020/Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/ChrisCash2020/Testing-Practice#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+  
+}
